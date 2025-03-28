@@ -16,5 +16,5 @@
 # git commit -m "Your commit message"
 => saves staged changes in Git’s history
 
-# git loge --oneline
+# git log --oneline
 => shows the commit history in a compact, single-line format
