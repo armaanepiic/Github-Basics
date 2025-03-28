@@ -1,0 +1,9 @@
+=> to initialize a new Git repository in a folder : git init
+
+=> shows the current state of your Git repository : git status
+
+=> stages a file : git add commands.txt
+
+=> Adding All Changes in the Directory : git add .
+
+=> unstage a staged file : git rm --cached commands.txt
