@@ -1,13 +1,20 @@
-=> to initialize a new Git repository in a folder : git init
+# git init
+=> to initialize a new Git repository in a folder
 
-=> shows the current state of your Git repository : git status
+# git status
+=> shows the current state of your Git repository
 
-=> stages a file : git add commands.txt
+# git add file_name
+=> stages a file
 
-=> Adding All Changes in the Directory : git add .
+# git add .
+=> Adding All Changes in the Directory
 
-=> unstage a staged file : git rm --cached commands.txt
+# git rm --cached file_name
+=> unstage a staged file
 
-=> saves staged changes in Git’s history : git commit -m "Your commit message"
+# git commit -m "Your commit message"
+=> saves staged changes in Git’s history
 
-=>
+# git loge --oneline
+=> shows the commit history in a compact, single-line format
