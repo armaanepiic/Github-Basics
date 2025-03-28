@@ -7,3 +7,7 @@
 => Adding All Changes in the Directory : git add .
 
 => unstage a staged file : git rm --cached commands.txt
+
+=> saves staged changes in Git’s history : git commit -m "Your commit message"
+
+=>
