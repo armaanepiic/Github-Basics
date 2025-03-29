@@ -90,6 +90,14 @@ Push another branch to GitHub:
 git push -u origin "another branch name"
 ```
 
+## Pulling Changes from GitHub
+
+If a file is edited directly on GitHub, use the following command to fetch and merge the changes into your local repository:
+
+```sh
+git pull
+```
+
 ## Contributing
 
 Feel free to fork this repository, create a new branch, make changes, and submit a pull request.
