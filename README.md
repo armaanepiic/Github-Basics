@@ -84,6 +84,12 @@ Push the `main` branch to GitHub and set it as the upstream branch:
 git push -u origin main
 ```
 
+Push another branch to GitHub:
+
+```sh
+git push -u origin "another branch name"
+```
+
 ## Contributing
 
 Feel free to fork this repository, create a new branch, make changes, and submit a pull request.
