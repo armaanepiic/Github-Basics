@@ -21,3 +21,7 @@
 
 # git checkout -b "branch_name"
 => to create a new branch
+
+# git checkout "branch_name"
+# git switch "branch_name"
+=> to switch an existing branch
