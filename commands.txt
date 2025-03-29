@@ -18,3 +18,6 @@
 
 # git log --oneline
 => shows the commit history in a compact, single-line format
+
+# git checkout -b "branch_name"
+=> to create a new branch
