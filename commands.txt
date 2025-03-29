@@ -22,6 +22,11 @@
 # git checkout -b "branch_name"
 => to create a new branch
 
+<<<<<<< HEAD
 # git checkout "branch_name"
 # git switch "branch_name"
 => to switch an existing branch
+=======
+# git branch -D "branch_name"
+=> delete a branch
+>>>>>>> login
